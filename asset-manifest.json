@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-media-app/static/css/main.dd668bfd.css",
+    "main.js": "/react-media-app/static/js/main.cf89cb3a.js",
+    "index.html": "/react-media-app/index.html",
+    "main.dd668bfd.css.map": "/react-media-app/static/css/main.dd668bfd.css.map",
+    "main.cf89cb3a.js.map": "/react-media-app/static/js/main.cf89cb3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd668bfd.css",
+    "static/js/main.cf89cb3a.js"
+  ]
+}
